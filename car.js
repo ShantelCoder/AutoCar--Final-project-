@@ -23,7 +23,7 @@ class Car {
 
       
         this.img=new Image();
-        this.img.src="formula1.png"
+        this.img.src="/img/formula1.png"
 
         this.mask=document.createElement("canvas");
         this.mask.width=width;
