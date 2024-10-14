@@ -1,4 +1,4 @@
-# AutoCar--Final-project-
+# AutoCar-project
 This project simulates a self-driving car environment using neural networks for AI decision-making. 
 It features a dynamic road system, realistic car physics, and obstacle detection via sensors. The neural network learns to navigate effectively, 
 with a visualization component to display the network's architecture and performance metrics.
