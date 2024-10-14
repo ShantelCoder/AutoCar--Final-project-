@@ -16,3 +16,4 @@ These visuals help you understand how well the AI is learning and improving.
 
 # Monitoring Progress:
 Keep an eye on the real-time statistics displayed on the screen. This may include current scores, best scores, and other performance indicators that show how the AI is evolving as it learns to drive.
+![clideo_editor_db9f298daaa849128a3302db3de3ac81](https://github.com/user-attachments/assets/db9a7e43-feff-4c07-818f-191b4866b97d)
